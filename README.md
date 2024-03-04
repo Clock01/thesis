@@ -25,6 +25,6 @@ Le tecnologie specifiche utilizzate nel progetto includono, ma non si limitano a
 Per eseguire i test è necessario avere Pytorch e Flower nel proprio ambiente di sviluppo
 
 ## Contatti
-Per maggiori dettagli contattare tramite il seguente indirizzo email: 20clock01@gmail.com.
+Per maggiori dettagli contattare tramite il seguente indirizzo email: emanuele.ribecco@studenti.unime.it.
 
 ---
